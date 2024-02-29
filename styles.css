@@ -1,2 +1,5 @@
 
 /* Your CSS Code here. */
+table,tr,td,th,thead,tbody{
+	text-align:center
+}
